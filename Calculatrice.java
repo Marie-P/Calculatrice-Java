@@ -6,7 +6,6 @@
 	*/
 
 public class Calculatrice{
-
 	private double resultat;
 
 	// Constructeur
